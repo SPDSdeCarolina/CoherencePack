@@ -1,0 +1,11 @@
+Package: CoherencePack
+Title: Functions to perform ECHO algorithm and test coherence
+Version: 0.0.0.9000
+Authors@R: person("Sergio", "Diaz", email = "diaz-sierra.1@gmail.com", role = c("aut", "cre"))
+Description: Includes functions to create network matrix and apply ECHO algorith to it.
+Depends:
+    R (>= 3.1.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
